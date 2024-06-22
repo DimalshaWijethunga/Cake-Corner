@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Antique_Fuchsia">#915C83</color>
+    <color name="dark_pink">#AA336A</color>
+    <color name="ash">#d9d7d7</color>
+    <color name="brown">#1d0200</color>
+    <color name="pink">#AA336A</color>
+    <color name="Fuchsia">#C154C1</color>
+    <color name="Pink_Lavender">#d8b2d1</color>
+    <color name="light_fuschia">#b184a5</color>
+
+
+
+
+    <color name="my_primary"> #B47DDB </color>
+    <color name="my_secondary"> #B53389 </color>
+    <color name="accent_color">#ffe9f0</color>
+</resources>
